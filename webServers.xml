@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27cb838a-50d7-4314-9f1a-b9d50f83ce40" name="Sphinx" url="http://localhost/sphinx">
+        <fileTransfer port="0" mountedRoot="C:\Sphinx" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,62 @@
+[Tue Dec 13 17:02:21.246 2016] [6900] listening on all interfaces, port=9312
+[Tue Dec 13 17:02:21.247 2016] [6900] listening on all interfaces, port=9306
+[Tue Dec 13 17:02:21.250 2016] [6900] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Tue Dec 13 17:02:21.260 2016] [6900] accepting connections
+[Tue Dec 13 17:44:57.108 2016] [6900] rt: index testrt: ramchunk saved in 0.008 sec
+[Tue Dec 13 17:44:57.208 2016] [6900] shutdown complete
+[Tue Dec 13 17:44:58.461 2016] [13196] listening on all interfaces, port=9312
+[Tue Dec 13 17:44:58.463 2016] [13196] listening on all interfaces, port=9306
+[Tue Dec 13 17:44:58.464 2016] [13196] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Tue Dec 13 17:44:58.481 2016] [13196] accepting connections
+[Tue Dec 13 17:45:19.544 2016] [13196] rt: index testrt: ramchunk saved in 0.005 sec
+[Tue Dec 13 17:45:19.648 2016] [13196] shutdown complete
+[Tue Dec 13 17:45:20.851 2016] [16260] listening on all interfaces, port=9312
+[Tue Dec 13 17:45:20.853 2016] [16260] listening on all interfaces, port=9306
+[Tue Dec 13 17:45:20.853 2016] [16260] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Tue Dec 13 17:45:20.862 2016] [16260] accepting connections
+[Tue Dec 13 17:48:51.685 2016] [16260] rt: index testrt: ramchunk saved in 0.004 sec
+[Tue Dec 13 17:48:51.717 2016] [16260] shutdown complete
+[Tue Dec 13 17:48:52.989 2016] [13888] listening on all interfaces, port=9312
+[Tue Dec 13 17:48:52.990 2016] [13888] listening on all interfaces, port=9306
+[Tue Dec 13 17:48:52.991 2016] [13888] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Tue Dec 13 17:48:52.998 2016] [13888] accepting connections
+[Tue Dec 13 17:50:41.916 2016] [13888] rt: index testrt: ramchunk saved in 0.006 sec
+[Tue Dec 13 17:50:42.010 2016] [13888] shutdown complete
+[Tue Dec 13 17:54:07.577 2016] [10884] listening on all interfaces, port=9312
+[Tue Dec 13 17:54:07.578 2016] [10884] listening on all interfaces, port=9306
+[Tue Dec 13 17:54:07.578 2016] [10884] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Tue Dec 13 17:54:07.582 2016] [10884] accepting connections
+[Tue Dec 13 17:55:27.856 2016] [10884] rt: index testrt: ramchunk saved in 0.011 sec
+[Tue Dec 13 17:55:27.905 2016] [10884] shutdown complete
+[Tue Dec 13 18:03:42.740 2016] [3188] listening on all interfaces, port=9312
+[Tue Dec 13 18:03:42.740 2016] [3188] listening on all interfaces, port=9306
+[Tue Dec 13 18:03:42.740 2016] [3188] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Tue Dec 13 18:03:42.752 2016] [3188] rotating index 'news': success
+[Tue Dec 13 18:03:42.756 2016] [3188] accepting connections
+[Tue Dec 13 18:03:56.766 2016] [3188] caught SIGHUP (seamless=1, in queue=1)
+[Tue Dec 13 18:03:56.777 2016] [19088] rotating index 'news': started
+[Tue Dec 13 18:03:56.793 2016] [19088] rotating index 'news': success
+[Tue Dec 13 18:03:56.793 2016] [19088] rotating index: all indexes done
+[Thu Dec 15 10:29:38.103 2016] [3188] rt: index testrt: ramchunk saved in 0.007 sec
+[Thu Dec 15 10:29:38.112 2016] [3188] shutdown complete
+[Thu Dec 15 10:29:41.092 2016] [3116] listening on all interfaces, port=9312
+[Thu Dec 15 10:29:41.093 2016] [3116] listening on all interfaces, port=9306
+[Thu Dec 15 10:29:41.093 2016] [3116] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Thu Dec 15 10:29:41.100 2016] [3116] accepting connections
+[Thu Dec 15 10:58:40.485 2016] [3116] rt: index testrt: ramchunk saved in 0.005 sec
+[Thu Dec 15 10:58:40.539 2016] [3116] shutdown complete
+[Thu Dec 15 10:58:41.786 2016] [17908] listening on all interfaces, port=9312
+[Thu Dec 15 10:58:41.787 2016] [17908] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Thu Dec 15 10:58:41.806 2016] [17908] accepting connections
+[Thu Dec 15 11:00:21.295 2016] [17908] rt: index testrt: ramchunk saved in 0.006 sec
+[Thu Dec 15 11:00:21.360 2016] [17908] shutdown complete
+[Thu Dec 15 11:00:22.555 2016] [11972] listening on all interfaces, port=9312
+[Thu Dec 15 11:00:22.557 2016] [11972] listening on all interfaces, port=9306
+[Thu Dec 15 11:00:22.557 2016] [11972] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Thu Dec 15 11:00:22.575 2016] [11972] accepting connections
+[Thu Dec 15 14:39:08.894 2016] [11972] rt: index testrt: ramchunk saved in 0.005 sec
+[Thu Dec 15 14:39:08.996 2016] [11972] shutdown complete
+[Thu Dec 15 14:52:32.180 2016] [11416] listening on all interfaces, port=9312
+[Thu Dec 15 14:52:32.181 2016] [11416] listening on all interfaces, port=9306
+[Thu Dec 15 14:52:32.181 2016] [11416] WARNING: index 'test1': preload: failed to open C:/Sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Thu Dec 15 14:52:32.206 2016] [11416] accepting connections

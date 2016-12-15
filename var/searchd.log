@@ -1,0 +1,24 @@
+[Tue Dec 13 15:37:39.180 2016] [14508] listening on all interfaces, port=9312
+[Tue Dec 13 15:37:39.181 2016] [14508] listening on all interfaces, port=9306
+[Tue Dec 13 15:37:39.181 2016] [14508] WARNING: index 'dist': no valid local/remote indexes in distributed index - NOT SERVING
+[Tue Dec 13 15:37:39.181 2016] [14508] FATAL: no valid indexes to serve
+[Tue Dec 13 15:38:34.759 2016] [25264] listening on all interfaces, port=9312
+[Tue Dec 13 15:38:34.760 2016] [25264] listening on all interfaces, port=9306
+[Tue Dec 13 15:38:34.760 2016] [25264] WARNING: index 'dist': no valid local/remote indexes in distributed index - NOT SERVING
+[Tue Dec 13 15:38:34.760 2016] [25264] FATAL: no valid indexes to serve
+[Tue Dec 13 15:39:16.802 2016] [22096] listening on all interfaces, port=9312
+[Tue Dec 13 15:39:16.802 2016] [22096] listening on all interfaces, port=9306
+[Tue Dec 13 15:39:16.802 2016] [22096] WARNING: index 'dist': no valid local/remote indexes in distributed index - NOT SERVING
+[Tue Dec 13 15:39:16.802 2016] [22096] FATAL: no valid indexes to serve
+[Tue Dec 13 16:21:46.389 2016] [8700] listening on all interfaces, port=9312
+[Tue Dec 13 16:21:46.389 2016] [8700] listening on all interfaces, port=9306
+[Tue Dec 13 16:21:46.390 2016] [8700] WARNING: index 'dist': no valid local/remote indexes in distributed index - NOT SERVING
+[Tue Dec 13 16:21:46.390 2016] [8700] FATAL: no valid indexes to serve
+[Tue Dec 13 16:28:11.815 2016] [19256] listening on all interfaces, port=9312
+[Tue Dec 13 16:28:11.816 2016] [19256] listening on all interfaces, port=9306
+[Tue Dec 13 16:28:11.816 2016] [19256] WARNING: index 'dist': no valid local/remote indexes in distributed index - NOT SERVING
+[Tue Dec 13 16:28:11.817 2016] [19256] FATAL: no valid indexes to serve
+[Tue Dec 13 16:32:04.545 2016] [19572] listening on all interfaces, port=9312
+[Tue Dec 13 16:32:04.546 2016] [19572] listening on all interfaces, port=9306
+[Tue Dec 13 16:32:04.547 2016] [19572] WARNING: index 'dist': no valid local/remote indexes in distributed index - NOT SERVING
+[Tue Dec 13 16:32:04.548 2016] [19572] FATAL: no valid indexes to serve

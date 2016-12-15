@@ -1,0 +1,12 @@
+index dist
+{
+	type = distributed
+}
+
+searchd
+{
+	port      = 3312
+	log       = C:\Sphinx\var\searchd.log
+	query_log = C:\Sphinx\var\query.log
+	pid_file  = C:\Sphinx\var\searchd.pid
+}
